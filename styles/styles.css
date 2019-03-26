@@ -1,15 +1,26 @@
-h1{
-    color:red;
+h1 {
+    
+    font-family: 'Raleway', sans-serif;
 }
 
-.topcorner{
-   position:absolute;
-   top:0;
-   right:0;
-  }
+body{
+    font-family: 'Open Sans', sans-serif;
+}
 
-.footer{
-    position:fixed;
-    bottom:0;
-    right:0;
+.topcorner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 5px;
+    
+}
+
+i{
+    margin-right: 14px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
