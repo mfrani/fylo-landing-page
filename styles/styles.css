@@ -1,22 +1,53 @@
 h1 {
-    
+
     font-family: 'Raleway', sans-serif;
 }
 
-body{
+body {
     font-family: 'Open Sans', sans-serif;
 }
+
+button {
+    background-color: hsl(163, 95%, 43%);
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 4px;
+   
+
+
+}
+
 
 .topcorner {
     position: absolute;
     top: 0;
     right: 0;
     margin: 5px;
-    
+
 }
 
-i{
+i {
     margin-right: 14px;
+}
+
+input {
+
+    padding: 14px 36px 18px;
+    margin: 8px 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    -webkit-box-shadow: 0 8px 6px -6px black;
+       -moz-box-shadow: 0 8px 6px -6px black;
+            box-shadow: 5px 5px 6px -6px black;
+    
 }
 
 .footer {
