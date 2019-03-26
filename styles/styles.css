@@ -1,6 +1,7 @@
-h1 {
+h1,h4 {
 
     font-family: 'Raleway', sans-serif;
+    color:hsl(243, 87%, 12%);
 }
 
 body {
@@ -50,8 +51,16 @@ input {
     
 }
 
+p{
+    color:hsl(0, 0%, 50%);
+}
+#privacy{
+    color:hsl(243, 87%, 12%);
+    font-size:12px;
+}
 .footer {
     position: fixed;
     bottom: 0;
     right: 0;
+    
 }
